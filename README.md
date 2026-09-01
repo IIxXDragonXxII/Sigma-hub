@@ -160,7 +160,7 @@ Desenvolvido por **Kaua Development** com ❤️ para a comunidade SIGMA.
 
 ##  Contato
 
-- GitHub: [kaua/Sigma-Hub](https://github.com/IIxXDragonXxII/Sigma-hub/)
+- GitHub: [IIxXDragonXxII/Sigma-Hub](https://github.com/IIxXDragonXxII/Sigma-hub/)
 - Issues: Use o GitHub Issues para reportar bugs ou sugerir features
 
 ---
