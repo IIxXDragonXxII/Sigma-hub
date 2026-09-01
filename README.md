@@ -1,16 +1,16 @@
-# 🧮 SIGMA HUB
+#  SIGMA HUB
 
 ![SIGMA HUB Banner](https://img.shields.io/badge/SIGMA%20HUB-1.0.0-orange?style=for-the-badge)
 
 **Aplicativo desktop moderno com interface neon, reunindo três módulos em um só lugar:**
 
-- 👥 **Equipe**: Galeria de fotos com molduras e visualizador em tela cheia
-- 🧮 **Calculadora**: Calculadora estilo "aura" com contador de pontos e animações neon
-- 🎮 **Mini Game**: "Aura Reflex" - teste seus reflexos clicando no alvo antes que ele suma
+-  **Equipe**: Galeria de fotos com molduras e visualizador em tela cheia
+-  **Calculadora**: Calculadora estilo "aura" com contador de pontos e animações neon
+-  **Mini Game**: "Aura Reflex" - teste seus reflexos clicando no alvo antes que ele suma
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### 1. Instalar Bibliotecas
 
@@ -24,7 +24,7 @@ Ele vai:
 - ✅ Instalar todas as bibliotecas necessárias (`customtkinter`, `Pillow`, `opencv-python`, `pygame`)
 - ✅ Gerar o arquivo `requirements.txt` com as versões instaladas
 
-> 💡 *Se der algum erro, execute como administrador ou verifique se o Python3 está no PATH*
+>  *Se der algum erro, execute como administrador ou verifique se o Python3 está no PATH*
 
 ### 2. Iniciar o Programa
 
@@ -37,11 +37,11 @@ Ele vai:
 - ✅ Ativar o ambiente virtual
 - ✅ Rodar o programa principal (`main.py`)
 
-> 🚨 *Se a `venv` não existir, execute o instalador primeiro*
+>  *Se a `venv` não existir, execute o instalador primeiro*
 
 ---
 
-## 📦 Para que serve cada arquivo
+##  Para que serve cada arquivo
 
 | Arquivo | Função |
 |---------|--------|
@@ -52,15 +52,15 @@ Ele vai:
 
 ---
 
-## 🌟 Recursos
+##  Recursos
 
-### Interface 🌈
+### Interface 
 - Tema neon escuro com cores personalizáveis
 - Animações suaves em todos os componentes
 - Efeito vidro fosco (glass effect) em cards e painéis
 - Fontes variadas por sistema operacional (Windows, macOS, Linux)
 
-### Módulos 📋
+### Módulos 
 
 **Equipe**
 - Galeria de fotos com hover effects
@@ -80,13 +80,13 @@ Ele vai:
 - Ranking online compartilhado
 - Salvamento de nome ao final da partida
 
-### Áudio 🎵
+### Áudio 
 - Música de fundo contínua entre telas
 - Controle de volume global
 - Botão mudo/desmudo
 - Sistema de fallback para diferentes formatos de áudio
 
-### Atualização Automática 🔄
+### Atualização Automática 
 - Verifica GitHub toda vez que o app é aberto
 - Detecta se há nova versão do código
 - Detecta alterações nos arquivos de assets (imagens)
@@ -95,7 +95,7 @@ Ele vai:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - `customtkinter` - Interface moderna e responsiva
 - `Pillow` - Manipulação de imagens
@@ -106,7 +106,7 @@ Ele vai:
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 SIGMA HUB/
@@ -125,7 +125,7 @@ SIGMA HUB/
 
 ---
 
-## 🔧 Personalização
+##  Personalização
 
 ### Para mudar o logo/avatar:
 1. Coloque sua imagem em `assets/logo.png` (ou `logo.jpg`, `logo.webp`)
@@ -146,21 +146,21 @@ SIGMA HUB/
 
 ---
 
-## 📜 Licença
+##  Licença
 
 Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
-## 👥 Equipe
+##  Equipe
 
 Desenvolvido por **Kaua Development** com ❤️ para a comunidade SIGMA.
 
 ---
 
-## 📬 Contato
+##  Contato
 
-- GitHub: [kaua/Sigma-Hub](https://github.com/kaua/Sigma-Hub)
+- GitHub: [kaua/Sigma-Hub](https://github.com/IIxXDragonXxII/Sigma-hub/)
 - Issues: Use o GitHub Issues para reportar bugs ou sugerir features
 
 ---
