@@ -11,7 +11,7 @@ import re
 import customtkinter as ctk
 
 
-GITHUB_REPO = "kaua/Sigma-Hub"
+GITHUB_REPO = "IIxXDragonXxII/Sigma-hub"
 GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}"
 RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main"
 
