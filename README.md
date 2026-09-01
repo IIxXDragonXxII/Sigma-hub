@@ -119,8 +119,8 @@ SIGMA HUB/
 ├── assets/              # Imagens, ícones, áudio, vídeo
 ├── venv/                # Ambiente virtual (gerado automaticamente)
 ├── requirements.txt     # Dependências Python
-├── instalar_bibliotecas.*  # Scripts de instalação
-└── iniciar.*            # Scripts de início
+├── instalar_bibliotecas # Scripts de instalação
+└── iniciar              # Scripts de início
 ```
 
 ---
